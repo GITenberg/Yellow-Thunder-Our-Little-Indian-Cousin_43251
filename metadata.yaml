@@ -1,0 +1,38 @@
+_repo: Yellow-Thunder-Our-Little-Indian-Cousin_43251
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Bridgman, L. J. (Lewis Jesse)
+    aliases:
+    - Bridgeman, Lewis Jesse
+    - Bridgman, Lewis Jesse
+    birthdate: 1857
+    deathdate: 1931
+    gutenberg_agent_id: '8122'
+    url: http://www.gutenberg.org/2009/agents/8122
+covers:
+- cover_type: archival
+  image_path: 43251-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wade, Mary Hazelton Blanchard
+    alias: Wade, Mary Hazleton
+    birthdate: 1860
+    deathdate: 1936
+    gutenberg_agent_id: '5065'
+    url: http://www.gutenberg.org/2009/agents/5065
+description: ''
+gutenberg_issued: '2013-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43251'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indian children -- North America -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Indians of North America -- Social life and customs -- Juvenile fiction'
+title: Yellow Thunder, Our Little Indian Cousin
+url: http://www.gutenberg.org/ebooks/43251
