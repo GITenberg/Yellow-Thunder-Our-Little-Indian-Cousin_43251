@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '5065'
     url: http://www.gutenberg.org/2009/agents/5065
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43251#Yellow-Thunder-Our-Little-Indian-Cousin
 gutenberg_issued: '2013-07-19'
 gutenberg_type: Text
 identifiers:
